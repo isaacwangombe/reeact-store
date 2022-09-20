@@ -40,7 +40,7 @@ const Cart = () => {
           <div className="empty-cart">
             <AiOutlineShopping size={150} />
             <h3>Your Shopping Bag is Empty</h3>
-            <Link href="/">
+            <Link href="">
               <button
                 className="btn"
                 type="button"
